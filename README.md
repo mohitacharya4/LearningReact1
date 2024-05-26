@@ -1,4 +1,4 @@
-# LearningReact
+# Learning React
 
 This project demonstrates basic concepts of React.js, including JSX, components, props, state, and fragments.
 
