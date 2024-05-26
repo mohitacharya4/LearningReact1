@@ -1,8 +1,15 @@
 # LearningReact
 
-Created a simple react application explining basic concepts of React.js like JSX, components, props, state and fragments.
+This project demonstrates basic concepts of React.js, including JSX, components, props, state, and fragments.
 
+## Steps to Run the Application Locally
 
-#Steps to run the application locally;
-1. npm install
-2. npm run dev
+1. Install the necessary dependencies:
+   ```sh
+   npm install
+   ```
+
+2. Start the development server:
+   ```sh
+   npm run dev
+   ```
